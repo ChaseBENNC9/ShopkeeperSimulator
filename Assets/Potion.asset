@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 075dfadead27ee84598f6c8d0cebe3c2, type: 3}
-  m_Name: Empty
+  m_Name: Potion
   m_EditorClassIdentifier: 
-  itemName: Empty
-  icon: {fileID: 21300000, guid: c1a36e7b1597cbb40b414673d425bb1b, type: 3}
-  basePrice: -1
+  itemName: Potion
+  icon: {fileID: 21300000, guid: 6548e3d428745774eb25bdf190fe7bd7, type: 3}
+  basePrice: 12
