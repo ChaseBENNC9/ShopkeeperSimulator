@@ -673,7 +673,7 @@ MonoBehaviour:
   inventoryPanel: {fileID: 1468042865}
   inventoryItemPrefab: {fileID: 7228163792944060210, guid: 6e174ce6671ec954399cfe98fc2ddf6a,
     type: 3}
-  playerInventory: {fileID: 0}
+  playerInventory: {fileID: 889725029}
   maxSlots: 20
 --- !u!4 &889725031
 Transform:
@@ -855,7 +855,7 @@ MonoBehaviour:
   m_StartCorner: 0
   m_StartAxis: 0
   m_CellSize: {x: 250, y: 250}
-  m_Spacing: {x: 100, y: 100}
+  m_Spacing: {x: 50, y: 0}
   m_Constraint: 1
   m_ConstraintCount: 5
 --- !u!114 &1468042868
